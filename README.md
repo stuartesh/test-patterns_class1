@@ -1,2 +1,2 @@
 # test-patterns_class1
-Clase responsive test
+Class 1 testing
